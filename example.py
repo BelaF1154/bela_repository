@@ -3,10 +3,10 @@ Bela Fernandez
 Module 08 Lab
 Part B
 
-This is a simple Python file that prints out a 0 - 20.
+This file prints out a 4x4 square.
 
 """
 x = 0
-while x < 21:
-    print(x)
+while x < 5:
+    print("****")
     x += 1
